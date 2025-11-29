@@ -1,0 +1,25 @@
+# Carpetas del proyecto
+.vscode/
+Binarios/
+
+# Archivos compilados de C++
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# Archivos temporales
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Carpetas de build comunes
+build/
+bin/
+obj/
+debug/
+release/

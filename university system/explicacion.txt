@@ -1,0 +1,4 @@
+No realicé el siguiente ejercicio debido a que no entendí muy bien 
+la estructura de clases y herencia dichas en la explicación del ejercicio
+por lo demás todos los anteriores ejercicios están completos totalmente funcionales y listos para ejecutar
+gracias...
